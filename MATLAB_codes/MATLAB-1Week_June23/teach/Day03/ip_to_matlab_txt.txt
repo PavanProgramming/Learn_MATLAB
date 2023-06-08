@@ -1,0 +1,22 @@
+hai
+hello
+provide the data
+
+ksvhhsvbn
+
+FirstName,Age,Weight,Smoker
+Smith,38,176,TRUE
+Johnson,43,163,FALSE
+Williams,38,131,FALSE
+Jones,40,133,FALSE
+Brown,49,119,FALSE
+Davis,46,142,FALSE
+Miller,33,142,TRUE
+Wilson,40,180,FALSE
+Moore,28,183,FALSE
+Taylor,31,132,FALSE
+Anderson,45,128,FALSE
+Thomas,42,137,FALSE
+Jackson,25,174,FALSE
+sjvnksdnb
+sbkjdsbnjnsbkdb.sb, sdvhsd bb,, sdv 
